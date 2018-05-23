@@ -1,0 +1,17 @@
+a{
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  padding-right:10px;
+  box-sizing: content-box;
+  background-color: aquamarine;
+  text-decoration: none;
+  color:white;
+  border-radius: 5px;
+}
+a:hover{
+  background-color: gold;
+  color: green;
+}
+
+
